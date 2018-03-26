@@ -4,9 +4,10 @@
     <img src="./assets/logo.png">
     <div>
       <el-button @click="startHacking">Start</el-button>
-      <el-button @click="test">Start</el-button>
+      <el-button @click="test">Start</el-button> 
     </div>
--->
+ -->
+
     <transition name="fade"
 		            mode="out-in">
 			<router-view></router-view>
