@@ -1,3 +1,13 @@
+# 必须要有的文件
+
+src/
+.babelrc
+package.json
+postcss.config.js
+webpack.config.js
+
+一个文件夹，4个文件
+
 # 安装依赖
 npm install
    
